@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287734279713",
+    "project_id": "logine-c27f6",
+    "storage_bucket": "logine-c27f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287734279713:android:a63e2526517a3e682d3d60",
+        "android_client_info": {
+          "package_name": "com.example.googlelogine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287734279713-34muurti3j2q07pihj9o1b1jl040tqgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNtTQjAg7w543_fOUQV-3WwII6h1mb-vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287734279713-34muurti3j2q07pihj9o1b1jl040tqgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
